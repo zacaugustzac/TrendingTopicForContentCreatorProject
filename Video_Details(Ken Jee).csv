@@ -1,277 +1,128 @@
 ,Title,Published_date,Views,Likes,Comments,Month
-0,AI: A Customer Service Revolution?,2023-05-26,2698,94,24,May
-1,Beginner Kaggle Data Science Project Walk-Through (Housing Prices) | With ChatGPT,2023-05-16,11875,506,52,May
-2,How I Would Learn Data Science with AI (If I Could Start Over),2023-05-04,21308,951,63,May
-3,This AI question will determine our future,2023-04-06,3964,254,37,Apr
-4,I'll Never Code the Same Again... (GPT-4 is OP),2023-04-03,69303,782,77,Apr
-5,Your current portfolio is actually hurting you #shorts,2023-03-30,4352,243,2,Mar
-6,"Traditional ""networking"" is stupid. Do THIS instead #shorts",2023-03-27,4636,249,3,Mar
-7,you're job searching wrong. #shorts,2023-03-23,3294,199,3,Mar
-8,The Economics of Data Roles #shorts,2023-03-21,5229,337,5,Mar
-9,Why your phone knows everything you say #shorts,2023-03-18,2470,114,7,Mar
-10,Read these for a successful career. #shorts,2023-03-16,2537,207,2,Mar
-11,Is Your Phone Actually Listening to You? #shorts,2023-03-09,2267,44,5,Mar
-12,How I Realized I Was a Bad Manager #shorts,2023-03-07,2407,114,1,Mar
-13,How I Use ChatGPT as a Data Scientist (4-5 hrs Saved Per Week),2023-03-03,18190,697,53,Mar
-14,Why I Quit Data Science... and then crawled back #shorts,2023-03-01,5965,202,8,Mar
-15,The Best Place to Look for Data Science Opportunities #shorts,2023-02-27,2235,148,2,Feb
-16,Learning On the companies dime #shorts,2023-02-24,2820,161,1,Feb
-17,The Best Way to Transition to Data Science? #shorts,2023-02-21,3389,228,6,Feb
-18,Avoid this Massive Data Science Learning Mistake #shorts,2023-02-17,5293,310,6,Feb
-19,Don't Go into Data for the Money #shorts,2023-02-15,3460,209,12,Feb
-20,So you're doing your first data science project...,2023-02-13,5036,304,22,Feb
-21,How to Approach Applying for a Data Role #shorts,2023-02-08,3524,235,7,Feb
-22,The Hard Reality of Data Science Work #shorts,2023-02-06,9300,600,9,Feb
-23,How Much Money Does a Data Scientist Make? #shorts,2023-02-03,4065,166,6,Feb
-24,These 3 Things Make Data Science Special #shorts,2023-02-01,3892,295,6,Feb
-25,Will Data Science Be Automated? #shorts,2023-01-27,6644,323,7,Jan
-26,Is Data Science A Good Fit For You? #shorts,2023-01-25,4670,272,9,Jan
-27,5 Books I Wish I Read Earlier In My Career,2023-01-23,8532,486,49,Jan
-28,How To Start Working on Data Science Projects (As a Beginner) #shorts,2023-01-19,4170,430,10,Jan
-29,What Data Science Tool Would I Learn First? #shorts,2023-01-17,6075,453,10,Jan
-30,How long does it take to become a Data Scientist? #shorts,2023-01-12,5003,406,6,Jan
-31,Where & how to start your Data Science Journey #shorts,2023-01-09,6351,391,2,Jan
-32,How I Would NOT Learn Data Science in 2023.,2023-01-03,113789,3812,238,Jan
-33,The Greatest Data Science Event You Never Heard Of  [Behind The Scenes],2022-12-14,4679,195,28,Dec
-34,The Essential Programming Concepts For Learning Data Science,2022-11-14,19499,824,46,Nov
-35,The Data Content House: What You Missed,2022-10-07,10265,344,50,Oct
-36,Is Data Science A Good Career?,2022-09-29,56055,1801,130,Sep
-37,IRON ANALYST (Teaser) #shorts,2022-09-27,5540,359,24,Sep
-38,When a New Data Scientist Joins The Team,2022-08-29,16128,739,133,Aug
-39,State of Data Science - Web Data,2022-08-05,10387,359,34,Aug
-40,Data Science Town Hall - State of Data Science,2022-08-04,9917,378,38,Aug
-41,The Programming Roadmap For Data Science,2022-07-29,25782,1252,64,Jul
-42,5 Impactful Data Science Projects For Your Portfolio,2022-06-27,62380,2530,91,Jun
-43,Machine Learning Saves My Baseball Career?,2022-06-10,7405,336,68,Jun
-44,Every Data Scientist... (funny!),2022-05-24,16063,840,146,May
-45,State of Data Science (Town Hall) ft - Data Squad,2022-05-07,15949,431,65,May
-46,Data Science Portfolio Project From Scratch | Building a YouTube Data Dashboard with Streamlit,2022-04-04,50702,1366,86,Apr
-47,Why You Are NOT Landing Data Jobs ... Yet,2022-03-25,20049,849,109,Mar
-48,Data Scientists VS NFT Scam,2022-03-03,4562,189,51,Mar
-49,When a PM Joins the Data Team... (funny!) - Ft @LukeBarousse,2022-02-21,10963,509,144,Feb
-50,What Professional Data Scientists ACTUALLY Do,2022-02-14,92085,3208,185,Feb
-51,Can You Analyze My Data Better Than I Can?,2022-01-31,7057,320,62,Jan
-52,Giving Back to My Most Engaged Subscribers!,2022-01-28,2310,119,89,Jan
-53,How to Make $1 Billion Betting on Horse Racing with Machine Learning,2022-01-24,24040,776,107,Jan
-54,Should You Be Excited About Web 3? (As a Data Scientist),2022-01-17,8756,422,85,Jan
-55,Should  @LukeBarousse Take This Data Analyst Job? (Funny) #Shorts,2022-01-14,8422,250,33,Jan
-56,The Only Data Science Explanation You Need,2022-01-10,48719,2086,170,Jan
-57,We Need to Talk About The LinkedIn Machine Learning Assessment.,2022-01-03,14341,644,144,Jan
-58,How I Would Learn Data Science in 2022 (If I Had to Start Over),2021-12-27,334779,14801,535,Dec
-59,What the Heck is WSL 2? (My New Favorite Tool),2021-12-17,10660,397,66,Dec
-60,How Statistics Saved the US SERIOUS $$$$ During WW2 #Shorts,2021-12-10,7925,565,25,Dec
-61,How Zillow Lost $500 MILLION With Machine Learning,2021-12-03,24201,1172,147,Dec
-62,Why Is Data Engineering So HOT Right Now?,2021-11-26,29156,1091,141,Nov
-63,Is Data Science Dying?,2021-11-19,119132,3769,360,Nov
-64,7 Incredible Books That Transformed My Health and My Life,2021-11-12,7983,389,112,Nov
-65,Why EVERYONE Should Start a Podcast (Including YOU),2021-11-05,3617,203,48,Nov
-66,Building a Burrito Dashboard - Data Science Project from Scratch with atoti,2021-10-29,12151,279,39,Oct
-67,ML Ops: What is it REALLY?,2021-10-22,6365,275,65,Oct
-68,Business Skills for Data Science: What are they REALLY?,2021-10-18,6668,298,50,Oct
-69,#66DaysOfData Round 3 Live Event! (feat. @statquest),2021-10-12,2202,123,5,Oct
-70,Roasting My First Data Science Project (Common Project Mistakes),2021-10-08,5834,278,64,Oct
-71,Is Data Visualization Important for Data Science? (A Data Scientist's Perspective),2021-08-20,12667,530,112,Aug
-72,Project Presentation - Expectations vs. Reality (funny) #shorts,2021-08-07,10061,428,32,Aug
-73,Data Science Project - Expectations vs Reality (funny) #shorts,2021-08-06,40170,1559,30,Aug
-74,How I Learned to Learn.,2021-07-31,50502,2349,209,Jul
-75,Is Spotify Shuffle Really Random? #Shorts,2021-07-21,10181,573,50,Jul
-76,I Eat a Papaya Live on Stream (Plus Q&A for 150K Subs!),2021-07-16,2374,93,30,Jul
-77,Why are APIs Important for Data Science?,2021-07-09,9544,447,95,Jul
-78,Is Your Phone REALLY Listening to You?,2021-07-03,5143,278,116,Jul
-79,Kaggle vs Github - Which is Best for Your Data Science Portfolio?,2021-06-25,14247,579,121,Jun
-80,#66DaysOfData - 3 Reasons to Start!,2021-06-18,4071,225,41,Jun
-81,#66DaysOfData - What is it? #shorts,2021-06-11,8900,383,54,Jun
-82,A Quick Data Science Project Tip! #SHORTS,2021-06-03,16457,1005,89,Jun
-83,Discouraged with Data Science? - Watch THIS video.,2021-05-28,7407,392,195,May
-84,How Data Science Projects Pay Off,2021-05-22,10475,591,146,May
-85,How I Use Data to Optimize My Life | What I Collect & How I Analyze It,2021-05-14,10472,485,134,May
-86,What is a lambda function (python)? #shorts,2021-05-13,14695,914,49,May
-87,Why Kaggle Should Be Your Favorite Data Science Resource #shorts,2021-05-07,26370,1414,59,May
-88,What is Pandas? (Data & Data Science) #shorts,2021-04-30,22842,1161,87,Apr
-89,The 7 Biggest Data Science  Beginner Mistakes,2021-04-23,75871,3389,281,Apr
-90,Data Scientist Reacts: REAL Data Science Job Application Data,2021-04-16,23322,688,85,Apr
-91,Why You Probably Won't Become a Data Scientist,2021-04-09,136152,3997,480,Apr
-92,How to Go From Data Analyst to Data Scientist,2021-04-02,52604,1507,173,Apr
-93,Why I Have 2 Offices for Data Science & Content Creation,2021-03-26,3953,138,92,Mar
-94,MARCH MADNESS - Will My Machine Learning Model Beat Your Bracket?,2021-03-19,18108,350,108,Mar
-95,My Regrets as a Data Science Student,2021-03-12,23749,877,112,Mar
-96,My Daily Battle With Time - Will I Win? [Vlog],2021-03-08,3815,196,83,Mar
-97,What is the Future of my Comment Leaderboard Project?,2021-02-26,5550,201,81,Feb
-98,How to Build a Website  - Building my ULTIMATE Portfolio Website,2021-02-19,6565,173,51,Feb
-99,Why I Quit Data Science,2021-02-12,104328,2341,348,Feb
-100,🌶 Hot Topics in Tech: Data Science Explained #SHORTS,2021-01-29,10560,548,116,Jan
-101,How I Balance Data Science and Content Creation (7 Secrets),2021-01-23,6984,295,126,Jan
-102,Kaggle Project From Scratch - Part 3 (Advanced Graphs & Gender Imbalance Analysis),2021-01-16,9412,298,52,Jan
-103,Kaggle Project From Scratch - Part 2 (Exploratory Data Analysis),2021-01-08,21871,693,134,Jan
-104,Kaggle Project From Scratch - Part 1 (Data Science Profession Survey),2021-01-02,36455,1131,147,Jan
-105,What is the #66DaysOfData?,2020-12-26,69050,2308,202,Dec
-106,How I Would Learn Data Science in 2021 (What Has Changed?),2020-12-19,131131,5973,488,Dec
-107,Unboxing the Ultimate Z by HP Data Science Package (FIRST EVER HP Workstation w/ Data Science Stack),2020-12-10,10750,395,133,Dec
-108,I Built the FIRST EVER YouTube Subscriber LEADERBOARD,2020-12-07,23317,723,326,Dec
-109,7 Things to Look For in a Masters For Data Science (feat. @TinaHuang1),2020-11-20,26948,837,163,Nov
-110,6 Lessons from #66DaysOfData,2020-11-13,6694,340,93,Nov
-111,100K Channel Update + AMA Stream!,2020-11-12,2318,127,22,Nov
-112,Find a Data Science Project With These 3 Techniques,2020-11-06,16557,719,106,Nov
-113,How I Chose My Masters Degree for Breaking into Data Science,2020-10-30,26015,659,156,Oct
-114,git for Data Science Made Simple... (Hopefully),2020-10-23,18616,847,92,Oct
-115,The PODCAST you might have asked for?,2020-10-19,2101,94,44,Oct
-116,Dealing with Doubt in Data Science (My Impostor Syndrome Story),2020-10-16,6672,446,113,Oct
-117,Advice from a Data Analytics CEO (@How to Get an Analytics Job) - KNN EP. 17,2020-10-14,13723,403,48,Oct
-118,Data Science Resume Round-Up With @Tina Huang  | Episode 3,2020-10-12,6608,142,62,Oct
-119,5 Unusual Data Science Projects that Will Land You a Job,2020-10-09,10819,550,83,Oct
-120,Sh*t Data Scientists Say (Parody),2020-10-05,9384,575,143,Oct
-121,5 Proven Strategies to Break into a Data Science Job,2020-10-02,8573,366,93,Oct
-122,Why Data-Viz is so Darn Important (@Story by Data | Kate Strachnyi) - KNN EP. 16,2020-09-30,7048,289,61,Sep
-123,Data Science Resume Round-Up With @TinaHuang1  - Episode 1,2020-09-28,11384,289,69,Sep
-124,5 Essential Data Science Projects for Your Portfolio,2020-09-26,71443,3067,208,Sep
-125,His Startup Will Land You a Data Science Job (Jeremie Harris) - KNN EP. 15,2020-09-23,5162,196,64,Sep
-126,Reviewing Your Data Science Projects - Episode 21(The Cleanest Portfolio),2020-09-21,10988,442,58,Sep
-127,"Hedge Funds, Startups, and Data Science Oh my! (@DataLeap) - KNN EP. 14",2020-09-18,7369,250,34,Sep
-128,Land a Data Science Job in a Different Country (Vijay Pravin Maharajan) - KNN EP. 13,2020-09-16,5086,193,56,Sep
-129,Reviewing Your Data Science Projects - Episode 20 (Bootcamp Capstone),2020-09-14,4156,157,35,Sep
-130,The 5 Pillars of Success I Live By,2020-09-11,10112,873,152,Sep
-131,Fast Cars to Faster Data (Alex Castrounis) - KNN EP. 12,2020-09-09,1884,78,25,Sep
-132,Reviewing Your Data Science Projects - Episode 19 (One Big Improvement),2020-09-07,3993,161,43,Sep
-133,How I Learn Data Science Through Studying Other People's Code | #66DaysOfData,2020-09-04,11713,732,144,Sep
-134,How She Dominated the FAANG Data Science Interview  (@TinaHuang1 ) - KNN EP. 11,2020-09-02,17838,567,89,Sep
-135,Reviewing Your Data Science Projects - Episode 18 (Job-Worthy GitHub),2020-08-31,17573,786,93,Aug
-136,Why I'm Starting Data Science Over Again.,2020-08-29,50655,2605,450,Aug
-137,Inside the Mind of the Ultimate Kaggle Grandmaster (@Abhishek Thakur ) - KNN EP. 10,2020-08-26,14933,623,76,Aug
-138,Reviewing Your Data Science Projects - Episode 17 (Best Portfolio Website Yet?),2020-08-24,12604,453,55,Aug
-139,Don't Buy My Course..,2020-08-21,7325,357,146,Aug
-140,How a Subscriber Landed a Data Analyst Job in Less Than a Year (Ray Ojel) - KNN EP. 09,2020-08-19,28970,1109,166,Aug
-141,Reviewing Your Projects - Episode 16 (Project Review for Beginners),2020-08-17,3210,128,40,Aug
-142,Data Scientist Dismantles the YouTube Algorithm.,2020-08-14,6283,535,108,Aug
-143,Sports Analytics & Streaming Data Science on Twitch (Nick Wan) - KNN EP. 08,2020-08-12,4923,184,39,Aug
-144,Reviewing Your Data Science Projects - Episode 15 (Quant Finance),2020-08-10,11348,367,53,Aug
-145,The Plagiarism Problem in Data Science,2020-08-07,13027,630,145,Aug
-146,Interview with the Director of AI Research @ NVIDIA (Anima Anandkumar) - KNN EP. 07,2020-08-05,14319,601,89,Aug
-147,Reviewing Your Data Science Projects - Episode 14 [Deep Learning Focus],2020-08-03,4869,187,56,Aug
-148,My First Data Science Contracting Side-Gig (How I Did It),2020-07-31,11267,578,90,Jul
-149,Do You Have a Data Science Mentor? (@Danny Ma) - KNN EP. 06,2020-07-30,2306,116,34,Jul
-150,Reviewing Your Data Science Projects - Episode 13 (BONUS LinkedIn Review),2020-07-27,5554,251,112,Jul
-151,Building a Deep Learning BEAST (NVIDIA TITAN RTX + RYZEN 3900X),2020-07-24,8159,247,200,Jul
-152,Is it Important to Share Your Data Science Work? (Ft. Eric Weber),2020-07-22,1848,98,27,Jul
-153,Reviewing Your Data Science Resumes - Episode 12 (3 Different Resumes!),2020-07-20,28702,559,90,Jul
-154,Beginner Kaggle Data Science Project Walk-Through (Titanic),2020-07-17,307846,6934,412,Jul
-155,Uber Driver to Machine Learning Engineer in 9 Months! (@Daniel Bourke) - KNN EP. 05,2020-07-16,30073,1123,121,Jul
-156,Reviewing Your Data Science Projects - Episode 11(GITHUB CLEANING),2020-07-13,3607,135,50,Jul
-157,The Best Computer for Data Science Beginners,2020-07-10,36832,841,157,Jul
-158,Should You Major in Data Science? (Jaemin Lee) - KNN EP. 04,2020-07-08,6139,228,82,Jul
-159,Critiquing MY OWN Data Science Resume,2020-07-06,12554,396,88,Jul
-160,Where to Start Learning Data Science,2020-07-03,18549,781,126,Jul
-161,"Data Science Productivity, Motivation, and Organization (ft. Data Professor & Codebasics)",2020-07-01,4083,197,37,Jul
-162,Reviewing Your Data Science Projects - Episode 10 (Leveraging Your Data),2020-06-29,4550,178,54,Jun
-163,How to Get a Data Science Job at FAANG (@Data Science Jay) - KNN EP. 03,2020-06-26,15976,547,79,Jun
-164,Reviewing Your Data Science Projects - Episode 9 (Professional Violinist),2020-06-22,2392,82,40,Jun
-165,"Ken Jee Q & A Live Stream (50,000 Sub Special!)",2020-06-20,2378,139,49,Jun
-166,Reviewing Your Data Science Projects - Episode 8 (College Student Help),2020-06-15,4309,168,46,Jun
-167,Why You're Struggling to Learn Data Science,2020-06-12,15185,1010,159,Jun
-168,Reviewing Your Data Science Projects - Episode 7 (Incredible Portfolio Website),2020-06-08,11322,351,70,Jun
-169,The State of Data Science with Krish Naik & The Data Professor [Panel Discussion],2020-06-05,23207,675,146,Jun
-170,Reviewing Your Data Science Projects - Episode 6 (Only 3 months of coding experience),2020-06-01,5689,156,53,Jun
-171,How to Build a Data Science Portfolio Website with Hugo & Github Pages [feat. Data Professor],2020-05-29,68183,2119,267,May
-172,Reviewing Your Data Science Projects - Episode 5 (Very Detailed Project),2020-05-25,20942,489,81,May
-173,Different Data Science Roles Explained (by a Data Scientist),2020-05-22,53472,1916,176,May
-174,Reviewing Your Data Science Projects - Episode 4 (Resume & Github),2020-05-18,11218,178,55,May
-175,How to Make A Data Science Portfolio Website with Github Pages,2020-05-15,121080,4211,192,May
-176,10000 Subscriber and 100th Video Special (Data Science),2020-05-13,3097,146,115,May
-177,Reviewing Your Data Science Projects - Episode 3 (Student Portfolio),2020-05-11,4475,153,74,May
-178,How I Would Learn Data Science (If I Had to Start Over),2020-05-08,1388975,48991,1997,May
-179,Reviewing Your Data Science Projects - Episode 2 (Resume and Portfolio),2020-05-04,5457,195,42,May
-180,What You Need to Know for a Data Science Internship,2020-05-01,20971,1154,59,May
-181,Reviewing Your Data Science Projects - Episode 1 (Exploratory Analysis),2020-04-27,8297,348,54,Apr
-182,What It's Like to be a Socially Distanced Data Scientist (A Day in the Life),2020-04-24,14966,460,103,Apr
-183,Data Science in Sports - Talk for Northwestern (Kellogg) MBA Students,2020-04-22,3088,85,24,Apr
-184,5 Tips for Crushing the Work From Home Life,2020-04-20,5382,202,38,Apr
-185,Data Science Project from Scratch - Part 7 (Documenting Your Work),2020-04-17,19429,705,126,Apr
-186,Data Science Project from Scratch -  Part 6 (Putting the Model into Production),2020-04-15,27072,700,98,Apr
-187,Data Science Project from Scratch  - Part 5 (Model Building),2020-04-13,40892,857,151,Apr
-188,Data Science Project from Scratch - Part 4 (Exploratory Data Analysis),2020-04-10,67802,1823,211,Apr
-189,Data Science Project from Scratch - Part 3 (Data Cleaning),2020-04-08,74284,1680,272,Apr
-190,Data Science Project from Scratch - Part 2 (Data Collection),2020-04-06,114846,3256,611,Apr
-191,Data Science Project from Scratch - Part 1 (Project Planning),2020-04-03,174317,4606,170,Apr
-192,When Data Science Goes Wrong,2020-03-30,1796,105,32,Mar
-193,How to ULTRALEARN Data Science,2020-03-27,61391,3819,169,Mar
-194,Why Right NOW is a Great Time to Learn Data Science,2020-03-23,4357,267,50,Mar
-195,Data Science Project Example Start to Finish (Deep Learning Image Classifier),2020-03-20,12571,462,45,Mar
-196,The Secret Data Scientists Don't Want You to Know,2020-03-16,10627,1137,105,Mar
-197,The 5 Stages of Learning Data Science,2020-03-13,17342,1296,78,Mar
-198,Can You Learn Data Science Without a Computer?,2020-03-11,1597,108,14,Mar
-199,The Best Free Data Science Courses Nobody is Talking About,2020-03-09,341498,21047,618,Mar
-200,The Data Science Projects that Got Me a Job,2020-03-06,40261,1391,41,Mar
-201,How to Integrate Data Science into Your Business,2020-03-02,3358,127,18,Mar
-202,The Problem with Data Science,2020-02-28,3766,155,19,Feb
-203,How Much Did Cheating Help the Astros Win? (What the Numbers Say),2020-02-24,1139,45,16,Feb
-204,How to Set Up Your Data Science Environment (Anaconda Beginner),2020-02-21,120250,2346,99,Feb
-205,3 Proven Data Science Projects for Beginners (Kaggle),2020-02-17,320308,17589,519,Feb
-206,Data Science Advice for College Students,2020-02-14,68641,1957,197,Feb
-207,Avoid These Data Science Resume Mistakes!,2020-02-10,27847,1227,61,Feb
-208,Data Science Explained with ... Cooking?,2020-02-07,5108,310,48,Feb
-209,The 4 Types of Sports Analytics Projects,2020-02-03,29210,961,60,Feb
-210,Data Science in Golf: PGA Merchandise Show 2020,2020-01-31,575,18,13,Jan
-211,How I Learned Data Science,2020-01-27,93453,2681,210,Jan
-212,What is Sports Analytics Really?,2020-01-20,20450,600,73,Jan
-213,Data Science Certificate vs Bootcamp vs Masters Degree,2020-01-18,109753,3113,577,Jan
-214,How To Learn Programming for Data Science [3 Steps],2020-01-13,29877,1976,96,Jan
-215,Data Science Fundamentals: SQL Queries,2020-01-10,6243,211,35,Jan
-216,Questions You Should Ask Your Data Science Interviewers,2020-01-06,3092,149,14,Jan
-217,The 9 Books That Changed My Perspective in 2019,2020-01-03,3357,179,25,Jan
-218,The Data Science Interview: What to Expect,2019-12-30,8365,374,32,Dec
-219,5 Data Science Resolutions for 2020,2019-12-27,474,25,12,Dec
-220,How to Scrape NBA Data Using the nba_api Python Module,2019-12-23,16231,570,92,Dec
-221,Collision Course: Sports Betting + Data Science,2019-12-20,16685,482,27,Dec
-222,3 Reasons You Should NOT Become a Data Scientist,2019-12-16,100700,2939,204,Dec
-223,5 Sports Analytics Books to Get You Started,2019-12-13,10448,398,57,Dec
-224,Math Needed for Mastering Data Science,2019-12-09,55765,2846,222,Dec
-225,The 5 Stages of Data Science Adoption,2019-12-06,1307,68,17,Dec
-226,How YOU Can Land a Sports Analytics Job,2019-12-02,67307,3003,230,Dec
-227,Data Science Fundamentals: Linear Regression,2019-11-29,6245,172,42,Nov
-228,Golf: Would You Rather Be the LONGEST or STRAIGHTEST Driver on the PGA Tour?,2019-11-25,1024,51,12,Nov
-229,Sports Analytics 101: The Pythagorean Theorem of Sports,2019-11-22,5852,267,26,Nov
-230,9 Ways You Can Make Extra Income as a Data Scientist,2019-11-18,45824,1749,80,Nov
-231,Applying Data Science To My YouTube Data: My Surprising Findings,2019-11-11,5897,136,31,Nov
-232,Why Selling Is An Important Data Science Skill,2019-11-04,1606,79,13,Nov
-233,By The Numbers: Where Should The NBA Put a 4 Point Line?,2019-10-21,2776,73,18,Oct
-234,Why is Balance Important in Data Science?,2019-10-16,698,32,13,Oct
-235,How to Stay Productive & Motivated When Learning Data Science,2019-09-29,11733,578,54,Sep
-236,How Far Should the NBA 3-Point Line Actually Be?,2019-09-21,3708,113,31,Sep
-237,6 Habits of Successful Data Scientists,2019-09-13,2187,94,17,Sep
-238,How To Build A Word Cloud From Scraped Data (Python),2019-09-04,4340,97,9,Sep
-239,Thank You For The Support | What's Next | Ken Jee | Data Science,2019-08-26,518,24,29,Aug
-240,Is Data Science Right For You?,2019-08-18,50073,1165,109,Aug
-241,Data Science Fundamentals: Data Cleaning in Python,2019-08-11,14557,388,55,Aug
-242,How To Get Data Science Experience (Without a Job),2019-08-08,29032,1379,75,Aug
-243,Take Your Data Science Projects From Good to Great,2019-08-05,1587,107,11,Aug
-244,The Projects You Should Do To Get A Data Science Job,2019-07-30,148521,5673,253,Jul
-245,What Does a Data Scientist Actually Do?,2019-07-19,44871,1241,81,Jul
-246,Data Science Fundamentals: Data Manipulation in Python (Pandas),2019-07-13,12746,351,42,Jul
-247,Data Science Fundamentals: Data Exploration in Python (Pandas),2019-07-05,17532,525,61,Jul
-248,Data Science: Pros and Cons,2019-06-30,5140,213,18,Jun
-249,How I Got My First Data Science Internship (And How You Can Land One),2019-06-21,24172,1173,89,Jun
-250,My Top 5 Data Science Internship Tips,2019-06-15,11735,488,23,Jun
-251,Golf STATS: Strokes Gained Explained,2019-06-07,7137,147,28,Jun
-252,Most Data Science Hopefuls Overlook This Important Skill,2019-05-25,614,44,5,May
-253,What I Learned From My Three Degrees,2019-05-17,1246,60,12,May
-254,I Wish I Had Known THIS Before Starting in Data Science,2019-05-14,25597,1070,68,May
-255,NASA Physicist Turned Data Scientist (Tim Bowling) - KNN EP. 02,2019-05-05,1230,40,2,May
-256,Should You Learn R for Data Science?,2019-04-25,20395,546,69,Apr
-257,Scrape Twitter Data in Python with Twitterscraper Module,2019-04-18,46260,853,336,Apr
-258,Work From Home Data Scientist: Day in the Life,2019-04-12,28014,761,101,Apr
-259,Where to Look for Data Science Jobs,2019-03-29,2996,120,9,Mar
-260,Data Science: Startup vs. Large Corporation,2019-03-21,2093,75,4,Mar
-261,"Data Science, Machine Learning, and AI: What's the Difference?",2019-03-16,6057,170,26,Mar
-262,Was Captain Marvel Bad? A Sentiment Analysis of Twitter Data,2019-03-09,4143,180,15,Mar
-263,Why You DON'T Want to be a WFH Data Scientist,2019-03-03,794,33,12,Mar
-264,Welcome To My Channel | Ken Jee | Data Science,2019-03-03,1420,35,8,Mar
-265,Where YOU Should Start With Data Science Projects,2019-02-19,16071,331,17,Feb
-266,Watch This Before Applying to Data Science Jobs,2019-02-04,1480,66,13,Feb
-267,My Top 5 Data Science Resources for 2019,2019-01-05,3676,121,17,Jan
-268,IT'S NOT TOO LATE TO LEARN CODE!,2018-12-18,827,37,6,Dec
-269,The Best Way to Predict NBA Minutes Played,2018-12-11,4156,107,14,Dec
-270,Demystifying Data Science Roles,2018-11-30,1126,53,5,Nov
-271,How to Simulate NBA Games in Python,2018-11-19,17444,388,54,Nov
-272,Should You Get A Masters in Data Science?,2018-11-14,20464,304,138,Nov
-273,How I Became A Data Scientist From a Business Background,2018-11-12,6380,198,23,Nov
-274,Predicting Season Long NBA Wins Using Multiple Linear Regression,2018-07-10,8535,193,17,Jul
-275,Predicting Crypto-Currency Price Using RNN lSTM & GRU,2017-11-18,18755,292,41,Nov
+0,sick of it.,2023-07-07,10839,584,34,Jul
+1,ChatGPT Prompts to Learn to Code Faster (and not get bored 🥱),2023-06-24,24225,1315,76,Jun
+2,No insurance in 🇺🇸,2023-06-14,13366,335,37,Jun
+3,When you need to study but also wanna watch anime 🥹,2023-06-04,7542,620,11,Jun
+4,🐙 Lonely Octopus Career Design Training,2023-05-13,17768,814,39,May
+5,How to Find Your Perfect Career (in the Age of AI & ChatGPT),2023-05-12,62861,3519,180,May
+6,Will AI Replace Programmers?,2023-04-01,191283,8937,1723,Apr
+7,Open Letter to Pause AI Development 👀,2023-03-29,16835,813,102,Mar
+8,My favourite thing about being a data scientist 👩‍💻,2023-03-12,25526,1975,31,Mar
+9,How to learn to code FAST using ChatGPT (it's a game changer seriously),2023-03-02,1756240,62932,1589,Mar
+10,How Your Environment Can Improve (Or Destroy) Your Life,2023-02-13,44280,2702,97,Feb
+11,Why You Will Pick the Wrong Career,2023-01-28,607892,31700,1092,Jan
+12,"64 self-help books, summarized in 1 sentence each.",2023-01-10,113457,6585,251,Jan
+13,How to Completely Transform Your Life in 6 Months (the butterfly effect 🦋),2023-01-01,865205,44669,636,Jan
+14,Self Study Traps to Avoid in 2023 (stop self-sabotaging!),2022-12-31,464865,24915,400,Dec
+15,Power From Adversity: how to harness negative emotions for motivation (very powerful!),2022-12-29,24871,1580,94,Dec
+16,Tech Layoffs: important lessons to recession proof yourself,2022-11-27,104814,4916,318,Nov
+17,How I Found My Perfect Career (advice for indecisive people and career changers),2022-11-01,334415,21858,645,Nov
+18,How to Get Over Fear of Failure (and stop procrastinating),2022-10-18,91820,5650,213,Oct
+19,For Anyone Going Through a Tough Time,2022-09-27,65544,3530,309,Sep
+20,Habits That Keep Me Sane (when life feels chaotic and uncertain),2022-09-16,46825,2440,168,Sep
+21,How to be Successful as an Introvert,2022-07-29,120688,6742,253,Jul
+22,Why You Should Study Less,2022-07-21,59826,3248,245,Jul
+23,In Defense of Hustle Culture,2022-07-10,67515,3307,403,Jul
+24,Why the best students are NOT the most successful,2022-06-27,135826,7527,473,Jun
+25,How to Make a Self Study Plan (that you don't give up halfway),2022-06-19,73759,4070,173,Jun
+26,I left Meta...and I'm lowkey freaking out 🥲,2022-06-09,231934,12539,768,Jun
+27,Why you keep quitting online courses (and then buy more),2022-06-02,244330,10069,622,Jun
+28,How I trick myself to be self-disciplined,2022-05-21,124025,6743,233,May
+29,How to Take Notes for Technical Things,2022-05-17,105934,5306,119,May
+30,Tips to Learn Technical Things Faster,2022-05-07,201303,11501,276,May
+31,stop being lazy.,2022-04-30,62854,3710,146,Apr
+32,Career advice for your 20s and 30s,2022-04-22,126107,6075,284,Apr
+33,Books that will pay off HUGE dividends in your 20s and 30s,2022-04-15,69935,4188,187,Apr
+34,5 Unique Python Projects (beginner to intermediate),2022-04-09,450635,17848,248,Apr
+35,How to save a half-wasted day🥲,2022-04-05,58778,3874,202,Apr
+36,How To Learn Anything Faster,2022-03-27,92196,5665,238,Mar
+37,9 ways to make money coding (and the combo strategy I recommend),2022-03-18,63351,3126,99,Mar
+38,Data scientists be like...,2022-03-14,38814,1601,64,Mar
+39,"Why you should not work at  FAANG/MANGA (Meta/Facebook, Amazon, Apple, Netflix, Google)",2022-03-11,49618,1858,135,Mar
+40,"what it’s ACTUALLY like to work at FAANG... (Facebook/Meta, Amazon, Netflix, Google, Apple)",2022-03-03,35365,1448,161,Mar
+41,How to learn programming faster!,2022-02-19,354113,17652,587,Feb
+42,What to EDUCATE YOURSELF on in 2022 (because the world is changing very quickly) 🐈‍⬛,2022-02-14,58399,3213,147,Feb
+43,Techniques I use to be more disciplined and CONSISTENTLY study (with a full time job),2022-02-03,634467,39730,632,Feb
+44,I built my first custom mechanical keyboard!,2022-01-27,14618,600,45,Jan
+45,How I motivate myself to study with a full time job (1 year in and haven’t given up yet 🤯),2022-01-17,204100,9174,382,Jan
+46,The one habit that will change your life,2021-12-31,50062,2620,102,Dec
+47,2022 create a vision board/book + plan with me!,2021-12-28,22856,946,27,Dec
+48,how to PROPERLY make a vision board | law of attraction in 2022,2021-12-26,63807,3147,126,Dec
+49,apartment home office desk tour 🐈,2021-12-18,120662,2999,200,Dec
+50,the 5 books that changed my life,2021-12-10,77792,4322,161,Dec
+51,The scoreboard I use to achieve my goals (science backed),2021-11-28,204284,8023,245,Nov
+52,How I use Notion in 4 different ways,2021-11-18,31912,1138,52,Nov
+53,Why you can’t find your passion,2021-11-09,111820,7159,317,Nov
+54,my simple weekly planning routine (that actually works),2021-11-03,145607,7906,211,Nov
+55,I play Visage and try not to cry (Halloween special),2021-11-01,12042,492,21,Nov
+56,What it’s like being a data scientist,2021-10-18,81229,3503,172,Oct
+57,How I consistently study with a full time job (9 months in and still going strong),2021-10-09,2494104,109630,1970,Oct
+58,Why being a data scientist is awesome!,2021-09-26,277314,10106,490,Sep
+59,Why you should not be a data scientist,2021-09-19,702949,20117,952,Sep
+60,Why I work so hard (despite having a ‘good’ job),2021-09-12,501094,22326,862,Sep
+61,Good coding habits to start developing NOW,2021-08-27,99503,4676,177,Aug
+62,How I'm figuring out what to do with my life,2021-08-22,50525,3082,145,Aug
+63,8 tiny habits that help me avoid procrastination,2021-08-15,325609,16295,358,Aug
+64,Data scientist desk setup (ergonomics while coding) | work from home edition,2021-07-28,53930,1392,144,Jul
+65,The habits that changed my life (and how I built them),2021-07-20,211219,10725,260,Jul
+66,How I'm learning to trade (forex swing trading),2021-07-11,35567,1375,141,Jul
+67,"How I design effective study plans for ANY SUBJECT (and stick with them) | trading, coding etc.",2021-07-04,77061,4105,145,Jul
+68,How I take notes - Tips for efficient note taking that speeds up learning,2021-06-26,191603,9114,260,Jun
+69,How I stop myself from burning out,2021-06-18,30343,1527,149,Jun
+70,Watch me build my portfolio! | How to create a portfolio website,2021-06-10,31841,894,50,Jun
+71,Data Science SQL Interview Question Walkthrough | SQL Sundays #9,2021-06-01,63133,1857,87,Jun
+72,"How to self study using MOOCS (Udemy, Coursera, and other online courses) | self study online",2021-05-27,271322,10964,272,May
+73,60k cooking and Q&A (ft. Uncle Roger fried rice),2021-05-23,7249,193,20,May
+74,Why you should have a portfolio website,2021-05-19,52164,2408,135,May
+75,We code a trading bot live! @jacobamaral,2021-05-10,22975,657,28,May
+76,The quant trader interview guide,2021-05-01,89657,1838,88,May
+77,How I would learn to code (if I could start over),2021-04-25,3252259,182243,2456,Apr
+78,"FAANG Data scientist reviews: Datacamp, Dataquest, 365 Data Science",2021-04-18,86413,1927,127,Apr
+79,What's the best certificate for data analysts? Google vs IBM Data Analyst Certificate,2021-04-09,466895,14365,596,Apr
+80,How to self study technical things,2021-04-04,2261257,80046,1732,Apr
+81,Watch this video before applying to Georgia Tech OMSCS,2021-03-21,59626,1041,208,Mar
+82,"Overview, Review and Study Tips - Google Data Analytics Professional Certificate (condensed version)",2021-03-20,338359,11765,524,Mar
+83,"Overview, Review and Study Tips - Google Data Analytics Professional Certificate",2021-03-19,27719,835,54,Mar
+84,from management consultant to software engineer | Humans of MCIT,2021-03-15,4307,101,6,Mar
+85,Needed to learn javascript in 3 hours - would not recommend,2021-03-07,15987,686,98,Mar
+86,Data science interview tips (product and technical interviews),2021-02-28,6254,225,20,Feb
+87,My career changing computer science masters degree in 15 minutes (Upenn MCIT),2021-02-21,52655,1532,224,Feb
+88,the most underrated data job in 2021,2021-02-05,18396,683,127,Feb
+89,cake and big sister advice 🖤,2021-01-31,5795,298,73,Jan
+90,How to get a data science job,2021-01-24,62564,2294,138,Jan
+91,Internship that made me rethink my career...(technology summer analyst at Goldman Sachs),2021-01-17,293971,7728,512,Jan
+92,How to learn math for data science (the minimize effort maximize outcome way),2021-01-11,102487,4165,227,Jan
+93,A productive day as a data scientist | day in the life of a data scientist vlog #2,2021-01-02,15705,356,38,Jan
+94,How to learn data science in 2022 (the minimize effort maximize outcome way),2020-12-26,473379,21616,633,Dec
+95,Do you have what it takes to be a great data scientist?,2020-12-20,9121,445,57,Dec
+96,The comments sections are WILD | YouTube sentiment analysis - Data science project for beginners,2020-12-11,11752,302,62,Dec
+97,A hard work day (ft. new NLP project) | FAANG data science isn't chill | vlog 1,2020-12-01,14638,301,45,Dec
+98,3 tips to avoid debt for a masters #SHORTS,2020-11-23,41857,2154,64,Nov
+99,The software engineering resume that got me into FAANG and Goldman Sachs (internship),2020-11-17,19287,380,45,Nov
+100,How I chose my masters degree (as an international student),2020-11-08,16325,489,86,Nov
+101,Interview with a quant trader,2020-11-02,110090,2832,227,Nov
+102,Data Science SQL Interview Question Walkthrough (real interview style) | SQL Sundays #8,2020-10-28,9710,254,50,Oct
+103,The data science resume that got me my FAANG (MANGA?) job (entry level data scientist),2020-10-23,234118,6246,265,Oct
+104,Data Science SQL Interview Question Walkthrough (real interview style) | SQL Sundays #7,2020-10-19,7516,191,27,Oct
+105,Data Science vs Software Engineering Interview | 3 Key Differences,2020-10-14,29568,1948,82,Oct
+106,SQL Data Science Interview Question Walkthrough | SQL Sundays #6,2020-10-12,7587,188,40,Oct
+107,Data Science Resume Round-Up With @KenJee_ds  - Episode 2,2020-10-09,5202,147,22,Oct
+108,Data Science SQL Interview Question Walkthrough | SQL Sundays #5,2020-10-05,12855,328,60,Oct
+109,SQL Data Science Interview Questions and Answers (interview style walk-through) | SQL Sundays #4,2020-09-27,15253,327,50,Sep
+110,Biology to Data Science (data professor's tips on how to get a data science research position),2020-09-26,5090,167,35,Sep
+111,SQL Data Science Interview Questions and Answers (interview style walk-through) | Question 3,2020-09-21,14965,345,47,Sep
+112,A day in the life of a data scientist (FAANG data scientist remote),2020-09-19,92353,2764,203,Sep
+113,THANK YOU FOR 1000! | Proper intro | Random facts about myself,2020-09-14,3074,132,52,Sep
+114,Real Data Science SQL Interview Questions and Answers # 2 | Data Science Interview Questions,2020-09-12,31285,914,116,Sep
+115,3 More Unique and Impactful Projects to get a Data Science Job,2020-09-08,23155,1205,72,Sep
+116,Real Data Science SQL Interview Questions and Answers # 1 | Data Science Interview Questions,2020-09-04,233558,8017,302,Sep
+117,Upenn MCIT Program Details and Real Student Experiences - Dr. Arvind Bhusnurmath,2020-08-30,13326,355,68,Aug
+118,The Ultimate Guide to Land a Data Science Internship | schedule and time management survival guide,2020-08-25,20707,1091,62,Aug
+119,"Are you a student? If yes, this is the best data science project for you!",2020-08-20,69504,3583,206,Aug
+120,3rd Year CS Resume (and asian drink) Review | Reviewing Your Resumes Ep. 2,2020-08-18,2965,71,12,Aug
+121,How to learn SQL for data science interview (the minimize effort maximize outcome way),2020-08-12,109221,6445,234,Aug
+122,"3rd Year Statistics,  Data Science, Computer Science Resume | Reviewing Your Resumes Ep. 1",2020-08-08,6982,192,24,Aug
+123,How I Became a Data Scientist | Computer Science Job Search Part 2,2020-08-02,15757,448,41,Aug
+124,How I got Software Engineering and Data Science Internships | Computer Science Job Search Part 1,2020-07-28,30534,1009,69,Jul
+125,How to choose between software engineering and data science | 5 Key Considerations,2020-07-22,383136,17354,667,Jul
+126,My UPenn MCIT Experience,2020-07-17,22772,361,74,Jul
